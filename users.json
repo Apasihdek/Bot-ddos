@@ -1,0 +1,66 @@
+{
+  "1127945446472560662": {
+    "concurrents": 10,
+    "attackTime": 120,
+    "attacks": [
+      {
+        "target": "51.79.146.55",
+        "port": "22",
+        "time": "60",
+        "method": "UDP_HEX",
+        "stamp": 1695940095,
+        "stopped": false
+      },
+      {
+        "target": "51.79.146.55",
+        "port": "22",
+        "time": "60",
+        "method": "UDP_HEX",
+        "stamp": 1695940477,
+        "stopped": false
+      },
+      {
+        "target": "51.79.146.55",
+        "port": "22",
+        "time": "60",
+        "method": "UDP_HEX",
+        "stamp": 1695940478,
+        "stopped": false
+      },
+      {
+        "target": "51.79.146.55",
+        "port": "22",
+        "time": "60",
+        "method": "UDP_HEX",
+        "stamp": 1695941166,
+        "stopped": false
+      },
+      {
+        "target": "51.79.146.55",
+        "port": "22",
+        "time": "60",
+        "method": "UDP_HEX",
+        "stamp": 1695941295,
+        "stopped": false
+      },
+      {
+        "target": "51.79.146.55",
+        "port": "22",
+        "time": "60",
+        "method": "UDP_HEX",
+        "stamp": 1695941401,
+        "stopped": false
+      },
+      {
+        "target": "https://tls.mrrage.xyz/nginx_status",
+        "port": "443",
+        "time": "30",
+        "method": "HTTP_GET",
+        "stamp": 1695948624,
+        "stopped": false
+      }
+    ],
+    "expire": 1704580020,
+    "servers": "Advanced"
+  }
+}
